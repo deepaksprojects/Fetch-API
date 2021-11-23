@@ -3,7 +3,7 @@
 - I used react.js, bootstrap, HTML, and CSS tech stacks.
 - It has a form for feedback. 
 - I also add ease in animation in news cards.
-- News are fecth using fetch method.
+- News are fecthed by fetch method.
 
 
 # Getting Started with Create React App
