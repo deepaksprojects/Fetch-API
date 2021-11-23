@@ -1,9 +1,9 @@
 # News-website  
--I build a news website that has a view toggle button. 
--I used react.js, bootstrap, HTML, and CSS tech stacks.
--It has a form for feedback. 
--I also add ease in animation in news cards.
--News are fecth using fetch method.
+- I build a news website that has a view toggle button. 
+- I used react.js, bootstrap, HTML, and CSS tech stacks.
+- It has a form for feedback. 
+- I also add ease in animation in news cards.
+- News are fecth using fetch method.
 
 
 # Getting Started with Create React App
